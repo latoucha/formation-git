@@ -2,7 +2,7 @@
 
 ## Titre niveau 2
 
-## Titre niveau 3
+##Titre  niveau 3
 
 +1
 
@@ -10,14 +10,13 @@
 
 +3
 
-1. Un
-2. Deux
+1- Un
 
-Formation **GIT**
+2- Deux
+
+formation **GIT**
 
 formation *GIT*
-
----
 
 '''html
 <html></html>
