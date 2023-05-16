@@ -1,0 +1,3 @@
+[submodule "armel/bootstrap"]
+	path = armel/bootstrap
+	url = git@github.com:latoucha/bootstrap.git
